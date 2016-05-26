@@ -4,3 +4,9 @@ c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\bin\Debug
 c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\obj\Debug\DBMS.csprojResolveAssemblyReference.cache
 c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\obj\Debug\DBMS.exe
 c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\obj\Debug\DBMS.pdb
+C:\GitHubWorkingDirectories\DBMS\DBMS\bin\Debug\DBMS.exe.config
+C:\GitHubWorkingDirectories\DBMS\DBMS\obj\Debug\DBMS.exe
+C:\GitHubWorkingDirectories\DBMS\DBMS\obj\Debug\DBMS.pdb
+C:\GitHubWorkingDirectories\DBMS\DBMS\bin\Debug\DBMS.exe
+C:\GitHubWorkingDirectories\DBMS\DBMS\bin\Debug\DBMS.pdb
+C:\GitHubWorkingDirectories\DBMS\DBMS\obj\Debug\DBMS.csprojResolveAssemblyReference.cache

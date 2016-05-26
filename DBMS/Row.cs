@@ -23,7 +23,9 @@ namespace DBMS
                 this.elements = streamReader.ReadLine().Split('|');
             }
 
-            intexTree.Add(int.Parse(elements[1]), int.Parse(this.Index)); // добавления значений в индексный файл
+            intexTree.Add(int.Parse(elements[1]), int.Parse(this.Index)); // добавление значений в индексный файл
+            // Пример: elements[1] - индексируемое поле
+            // Добавится узел: <значение индексируемого поля, номер строки>
         }
     }
 }

@@ -24,8 +24,8 @@ namespace DBMS
                 this.rows.Add(new Row(fileInfo, indexTree));
             }
         }
-        
-        public void Show()
+
+        public void ShowTable()
         {
             Console.WriteLine("\tTable name: " + this.Name);
 

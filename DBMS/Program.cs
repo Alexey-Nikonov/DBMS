@@ -35,13 +35,13 @@ namespace DBMS
             Console.WriteLine(">>Введите информацию для добавления строки в таблицу {0}: ", dataBase.Tables[0].Name);
             dataBase.Tables[0].Add(Console.ReadLine());
 
-            dataBase.Tables[0].Show();            
+            dataBase.Tables[0].ShowTable();
             dataBase.Tables[0].ShowIndexTree();
 
             Console.WriteLine(">>Введите значение индексируемого поля для удаления строки из таблицы {0}: ", dataBase.Tables[0].Name);
             dataBase.Tables[0].Remove(int.Parse(Console.ReadLine()));
 
-            dataBase.Tables[0].Show();
+            dataBase.Tables[0].ShowTable();
             dataBase.Tables[0].ShowIndexTree();
 
             Console.ReadKey(true);

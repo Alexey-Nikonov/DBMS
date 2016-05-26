@@ -2,7 +2,7 @@
 
 namespace DBMS
 {
-    class Node: IComparable
+    class Node : IComparable
     {
         public int Key { get; private set; }
         public int Value { get; private set; }

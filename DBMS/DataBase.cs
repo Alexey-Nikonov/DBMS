@@ -29,7 +29,7 @@ namespace DBMS
 
             foreach (Table table in this.tables)
             {
-                table.Show();
+                table.ShowTable();
             }
         }
     }
