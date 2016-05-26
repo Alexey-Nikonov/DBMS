@@ -1,0 +1,6 @@
+c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\bin\Debug\DBMS.exe.config
+c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\bin\Debug\DBMS.exe
+c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\bin\Debug\DBMS.pdb
+c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\obj\Debug\DBMS.csprojResolveAssemblyReference.cache
+c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\obj\Debug\DBMS.exe
+c:\users\nikonov-nbook\documents\visual studio 2013\Projects\DBMS\DBMS\obj\Debug\DBMS.pdb
