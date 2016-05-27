@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Журнал создания кода/преобразования текста">
+  <MessageClass Name="Message" Label="Сообщение" Option="Показывать информационные сообщения" />
+  <MessageClass Name="Warning" Label="Предупреждение" Option="Показывать предупреждения" />
+  <MessageClass Name="Error" Label="Ошибка" Option="Показывать ошибки" />
+  <MessageClass Name="Property" Label="Свойство" Option="Показывать метаданные" />
+  <MessageClass Name="Diagnostic" Label="Сообщение" Option="Показывать диагностические сообщения" />
+  <Message Timestamp="2016-05-27T21:40:29" Importance="High" Text="Реконструирование запущено." />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;0ae6a4f0-6c6b-403e-8ff4-e8f39c84cc95&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;9506171c-e454-4cbf-965d-065bdff1372a&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Boolean&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;d723a5fe-b8d5-40f3-b8b5-7915e707a4d4&quot; -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;Integer&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS&quot; -  (Package)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree&quot; -  (Class)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::Add&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::Add::key&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::Add::value&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::AddAfterParent&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::AddAfterParent::key&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::AddAfterParent::parent&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::AddAfterParent::value&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::BinaryTree&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::Find&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::Find::key&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::FindWithParent&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::FindWithParent::key&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::FindWithParent::parent&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::Remove&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::Remove::key&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::root&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::Show&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::ShowInOrder&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::BinaryTree::ShowInOrder::node&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection&quot; -  (Class)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::Add&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::Add::item&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::Collection&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::Delete&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::Delete::item&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::elements&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::Length&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::position&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::System‎.Collections‎.Generic‎.IEnumerable&lt;T&gt;‎.GetEnumerator&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::System‎.Collections‎.Generic‎.IEnumerator&lt;T&gt;‎.Current&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::System‎.Collections‎.IEnumerable‎.GetEnumerator&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::System‎.Collections‎.IEnumerator‎.Current&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::System‎.Collections‎.IEnumerator‎.MoveNext&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::System‎.Collections‎.IEnumerator‎.Reset&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::System‎.IDisposable‎.Dispose&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::this&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection::this::index&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection&lt;Row‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Collection&lt;Table‎&gt;&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::DataBase&quot; -  (Class)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::DataBase::Connect&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::DataBase::DataBase&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::DataBase::dataBaseInfo&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::DataBase::Name&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::DataBase::Show&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::DataBase::tables&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::DataBase::Tables&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node&quot; -  (Class)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::CompareTo&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::CompareTo::obj&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::Key&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::Left&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::Node&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::Node::key&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::Node::value&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::Right&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Node::Value&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Program&quot; -  (Class)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Program::Main&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Program::Main::args&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Program::Program&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Program::watcher_Changed&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Program::watcher_Changed::e&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Program::watcher_Changed::sender&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Row&quot; -  (Class)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Row::elements&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Row::Elements&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Row::fileInfo&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Row::Index&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Row::Row&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Row::Row::fileInfo&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Row::Row::intexTree&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Medium" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table&quot; -  (Class)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Add&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Add::rowContent&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Find&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Find::key&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::indexTree&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Name&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Remove&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Remove::key&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::rows&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Rows&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::ShowIndexTree&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::ShowTable&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Table&quot; -  (Operation)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::Table::tableInfo&quot; -  (Parameter)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::DBMS::Table::tableInfo&quot; -  (Property)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System&quot; -  (Package)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Collections&quot; -  (Package)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Collections::ArrayList&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Collections::Generic&quot; -  (Package)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Collections::Generic::IEnumerable&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Collections::Generic::IEnumerable&lt;T‎&gt;&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Collections::Generic::IEnumerator&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Collections::Generic::IEnumerator&lt;T‎&gt;&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Collections::IEnumerator&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::IComparable&quot; -  (Interface)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::IO&quot; -  (Package)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::IO::DirectoryInfo&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::IO::FileInfo&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::IO::FileSystemEventArgs&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;ModelingProject::System::Object&quot; -  (Class)   (реконструирован частично - определение не обновлено) " />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Элемент реконструирован в модели UML: &quot;String&quot; -  (PrimitiveType)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::DataBase в ModelingProject::DBMS::Collection&lt;Table‎&gt; (Association)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::DataBase в ModelingProject::System::IO::DirectoryInfo (Association)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::Node в ModelingProject::DBMS::Node (Association)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::Node в ModelingProject::DBMS::Node (Association)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::Node в ModelingProject::System::IComparable (InterfaceRealization)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::Row в ModelingProject::System::IO::FileInfo (Association)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::Table в ModelingProject::DBMS::Collection&lt;Row‎&gt; (Association)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::Table в ModelingProject::System::IO::DirectoryInfo (Association)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::Collection в ModelingProject::System::Collections::Generic::IEnumerable&lt;T‎&gt; (InterfaceRealization)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::DBMS::Collection в ModelingProject::System::Collections::Generic::IEnumerator&lt;T‎&gt; (InterfaceRealization)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::System::Collections::Generic::IEnumerator&lt;T‎&gt; в ModelingProject::System::Collections::IEnumerator (Generalization)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="Diagnostic" Text="Отношение реконструировано в модели UML: ModelingProject::System::Collections::Generic::IEnumerator в ModelingProject::System::Collections::IEnumerator (Generalization)" />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="High" Text="Полностью реконструировано (7) типов." />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="High" Text="Частично реконструировано (13) типов.  Эти типы не были включены в исходный выбор, поэтому их полные определения не реконструированы.  Данная пустая операция лишь проверила наличие этих типов в модели UML, поскольку они необходимы для полного описания других элементов." />
+  <Message Timestamp="2016-05-27T21:40:39" Importance="High" Text="Операция реконструирования завершена; ошибок: (0), предупреждений: (0)." />
+</Log>
